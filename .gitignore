@@ -1,0 +1,6 @@
+bin/
+lib/
+obj/
+kuba_pedal.layout
+kuba_pedal.depend
+*.dll

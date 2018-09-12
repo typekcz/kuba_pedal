@@ -40,8 +40,8 @@
 			<Add option="-lole32 -loleaut32" />
 			<Add library="D:/Programy/CodeBlocks/Projects/albox/albox/lib/liballegro_monolith.dll.a" />
 		</Linker>
-		<Unit filename="gamepad.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="pedal.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
